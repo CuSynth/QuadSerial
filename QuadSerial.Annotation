@@ -1,0 +1,14 @@
+[DesignatorManager]
+LogicalDesignator0=U1
+LogicalPartID0=1
+DocumentName0=main.SchDoc
+ChannelName0=main
+UniqueID0=\QLUJUHMV
+PhysicalDesignator0=U1
+PhysicalDesignatorLocked0=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
