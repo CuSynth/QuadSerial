@@ -1,1 +1,2 @@
 Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IO_driver|SchDesignator=IO_driver|FileName=IO_driver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=IO_driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
